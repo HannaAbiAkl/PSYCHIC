@@ -1,5 +1,5 @@
  # PSYCHIC ![alt text for screen readers](/figures/psychic.jpg "PSYCHIC")
-PSYCHIC (**P**re-trained **SY**mbolic **CH**ecker **I**n **C**ontext) is a model that is a fine-tuned version of distilbert-base-uncased on the DBLP-QuAD dataset.
+[PSYCHIC](https://huggingface.co/HannaAbiAkl/psychic) (**P**re-trained **SY**mbolic **CH**ecker **I**n **C**ontext) is a model that is a fine-tuned version of distilbert-base-uncased on the DBLP-QuAD dataset.
 
 This is the official code repository for the [Scholarly-QALD](https://kgqa.github.io/scholarly-QALD-challenge/2023/) challenge paper at the [International Semantic Web Conference (ISWC) 2023](https://iswc2023.semanticweb.org/semantic-web-challenges/): "PSYCHIC: A Neuro-Symbolic Framework for Knowledge Graph Question-Answering Grounding".
 
